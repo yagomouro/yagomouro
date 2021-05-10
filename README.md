@@ -1,9 +1,12 @@
+<!-- ****************** Typing svg ****************** -->
+
 <div align="center" width="100%">
   <a href="https://git.io/typing-svg">
     <img width="100%" src="https://readme-typing-svg.herokuapp.com?color=2ABD90&size=15&center=true&vCenter=true&lines=Hi+there%2C+my+name+is+Yago;I'm+frontend+developer;Welcome+to+my+GitHub+profile+%3A%29" alt="Welcome to my profile"/>
   </a>
 </div> <br>
 
+<!-- ****************** A little bit more of me ****************** -->
 <h3>A little bit more of me...<h3>
 <p>👨🏻‍💻 I'm in the third (and last) module of IT technician course in 
 <a href="http://etecaf.com.br ">Etec Aristoteles Ferreira</a>
@@ -13,6 +16,7 @@
 <br>
 
 <h3>🛠 My skills</h3>
+<!-- ****************** Tecnologies ****************** -->
 <h4>Technologies</h4>
 <table>
   <tr>
@@ -48,6 +52,7 @@
     </td>
   </tr>
 </table>
+<!-- ****************** Tools ****************** -->
 <h4>Tools</h4>
 <table>
   <tr>
@@ -79,7 +84,8 @@
     </td>
   </tr>
 </table>
-<h4>I am interested</h4>
+<!-- ****************** I'm interested ****************** -->
+<h4>I'm interested</h4>
 <table>
   <tr>
    <td align="center" width="96">
@@ -109,6 +115,7 @@
   </tr>
 </table><br>
 
+<!-- ****************** GitHub profile stats ****************** -->
 <details> 
 <summary align="left">:octocat: My GitHub profile stats (click here)</summary> <br>
 <div align="center" width="100%">
@@ -128,16 +135,18 @@
 </div> 
 </details><br>
 
+<!-- ****************** Favorite repos ****************** -->
 <h3>🖤 My favorite repos<h3>
 <div align="left" width="100%">
   <a href="https://github.com/yagomouro/weather-app">
     <img  width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=yagomouro&repo=weather-app&theme=tokyonight" alt="Weather App Repository Stats"/>
-  </a>
+  </a>&ensp;&ensp;&ensp;
   <a href="https://github.com/yagomouro/devflix">
     <img  width="40%"  src="https://github-readme-stats.vercel.app/api/pin/?username=yagomouro&repo=devflix&theme=tokyonight" alt="Devflix Repository Stats"/>
   </a> 
 </div><br>
 
+<!-- ******************** Connect with me ******************-->
 <h3> 🔗 Connect with me</h3> <br>
 <a href="https://www.linkedin.com/in/yagomouro">
     <img height="25" src="https://img.shields.io/badge/Yago_Mouro-0077B5?style=flat&logo=linkedin&logoColor=white" alt="Linkedin - /yagomouro"/>
