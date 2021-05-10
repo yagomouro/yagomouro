@@ -150,7 +150,7 @@
 <h3> 🔗 Connect with me</h3> <br>
 <a href="https://www.linkedin.com/in/yagomouro">
     <img height="25" src="https://img.shields.io/badge/Yago_Mouro-0077B5?style=flat&logo=linkedin&logoColor=white" alt="Linkedin - /yagomouro"/>
-</a>
+</a>&ensp;&ensp;
 <a href="https://www.instagram.com/yago_mouro">
     <img height="25" src="https://img.shields.io/badge/yago__mouro-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram - yago_mouro"/>
 </a> <br>
