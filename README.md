@@ -113,17 +113,17 @@
 <summary align="left">:octocat: My GitHub profile stats (click here)</summary> <br>
 <div align="center" width="100%">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="60%" src="https://github-readme-stats.vercel.app/api?username=yagomouro&count_private=true&show_icons=true&theme=tokyonight&line_height=25" alt="Yago Mouro's GitHub stats"/>
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=yagomouro&count_private=true&show_icons=true&theme=tokyonight&line_height=25" alt="Yago Mouro's GitHub stats"/>
   </a>
 </div><br>
 <div align="center" width="100%">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="60%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagomouro&exclude_repo=,&hide=shell&langs_count=6&theme=tokyonight&layout=compact&count_private=true" alt="Yago Mouro's Most Used Languages"/>
+    <img width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagomouro&exclude_repo=,&hide=shell&langs_count=6&theme=tokyonight&layout=compact&count_private=true" alt="Yago Mouro's Most Used Languages"/>
   </a>
 </div><br>
 <div align="center" width="100%">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="60%"  src="https://github-readme-streak-stats.herokuapp.com?user=yagomouro&theme=tokyonight" />
+    <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com?user=yagomouro&theme=tokyonight" />
   </a>
 </div> 
 </details><br>
