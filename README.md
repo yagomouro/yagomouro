@@ -44,12 +44,6 @@
       </a>
       <br>SASS
     </td>
-    <td align="center" width="96">
-      <a href="https://getbootstrap.com">
-        <img src="./img/bootstrap.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
   </tr>
 </table>
 <!-- ****************** Tools ****************** -->
