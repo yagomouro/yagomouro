@@ -138,6 +138,9 @@
   <a href="https://github.com/yagomouro/weather-app">
     <img  width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=yagomouro&repo=weather-app&theme=tokyonight" alt="Weather App Repository Stats"/>
   </a>&ensp;&ensp;&ensp;
+  <a href="https://github.com/yagomouro/devflix">
+    <img  width="40%"  src="https://github-readme-stats.vercel.app/api/pin/?username=yagomouro&repo=devflix&theme=tokyonight" alt="Devflix Repository Stats"/>
+  </a> 
 </div><br>
 
 <!-- ******************** Connect with me ******************-->
