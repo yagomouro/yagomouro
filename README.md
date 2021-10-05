@@ -8,7 +8,7 @@
 
 <!-- ****************** A little bit more of me ****************** -->
 <h3>A little bit more of me...<h3>
-<p>👨🏻‍💻 I'm in the third (and last) module of IT technician course in 
+<p>👨🏻‍💻 I'm graduated in an IT technician course in 
 <a href="http://etecaf.com.br ">Etec Aristoteles Ferreira</a>
 </p>
 <p>💖 I'm passionate about understanding Design and Frontend development</p>
