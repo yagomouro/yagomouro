@@ -143,9 +143,10 @@
 
 <!-- ******************** Connect with me ******************-->
 <h3> 🔗 Connect with me</h3> <br>
-<a href="mailto:yagormouro@gmail.com" target="_blank">
-    <img height="25" src="https://img.shields.io/badge/yagormouro@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail - yagormouro@gmail.com"/>
-</a>&ensp;&ensp;
 <a href="https://www.linkedin.com/in/yagomouro" target="_blank">
     <img height="25" src="https://img.shields.io/badge/Yago_Mouro-0077B5?style=flat&logo=linkedin&logoColor=white" alt="Linkedin - /yagomouro"/>
 </a>&ensp;&ensp;
+<a href="mailto:yagormouro@gmail.com" target="_blank">
+    <img height="25" src="https://img.shields.io/badge/yagormouro@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail - yagormouro@gmail.com"/>
+</a>&ensp;&ensp;
+
