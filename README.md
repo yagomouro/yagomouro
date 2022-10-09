@@ -24,8 +24,8 @@
       <br>C#
     </td>
     <td align="center" width="96">
-        <img src="./img/styled-components.png" width="48" height="48" alt="Styled Components" />
-      <br>Styled Components
+        <img src="./img/sass.svg" width="48" height="48" alt="Sass" />
+      <br>Sass
     </td>
   </tr>
 </table><br>
