@@ -24,7 +24,7 @@
       <br>C#
     </td>
     <td align="center" width="96">
-        <img src="./img/styles-components.png" width="48" height="48" alt="Styled Components" />
+        <img src="./img/styled-components.png" width="48" height="48" alt="Styled Components" />
       <br>Styled Components
     </td>
   </tr>
