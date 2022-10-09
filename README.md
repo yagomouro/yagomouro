@@ -6,15 +6,6 @@
   </a>
 </div> <br>
 
-<!-- ****************** A little bit more of me ****************** -->
-<h3>A little bit more of me...<h3>
-<p>- I'm graduated in an IT technician course in 
-<a href="http://etecaf.com.br ">Etec Aristoteles Ferreira</a>
-</p>
-<p>- I'm passionate about understanding Design and Frontend development</p>
-<p>- Even though I'm not an expert, I like to share my knowledge with other people</p> 
-<br>
-
 <h3>🛠 My skills</h3>
 <!-- ****************** Tecnologies ****************** -->
 <h4>Technologies</h4>
