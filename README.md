@@ -12,23 +12,23 @@
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="./img/python" width="48" height="48" title="HTML 5"/>
+        <img src="./img/python.png" width="48" height="48" title="Python"/>
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="./img/react.svg" width="48" height="48" title="CSS 3">
+        <img src="./img/react.svg" width="48" height="48" title="React">
       <br>React
     </td>
     <td align="center" width="96">
-        <img src="./img/csharp.svg" width="48" height="48" title="JavaScript" />
+        <img src="./img/csharp.svg" width="48" height="48" title="C#" />
       <br>C#
     </td>
     <td align="center" width="96">
-        <img src="./img/styles-components.svg" width="48" height="48" alt="Sass" />
+        <img src="./img/styles-components.png" width="48" height="48" alt="Styled Components" />
       <br>Styled Components
     </td>
   </tr>
-</table>
+</table><br>
 <!-- ****************** Tools ****************** -->
 <h4>Tools</h4>
 <table>
@@ -48,7 +48,7 @@
       Git
     </td>
     <td align="center" width="96">
-          <img src="./img/azure-functions.svg" width="50" height="50" alt="GitHub" />
+          <img src="./img/azure-functions.png" width="50" height="50" alt="Azure Functions" />
       Azure Functions
     </td>
   </tr>
