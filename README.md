@@ -12,28 +12,20 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="https://www.w3schools.com/html/">
-        <img src="./img/html5.svg" width="48" height="48" title="HTML 5"/>
-      </a>
-      <br>HTML 5
+        <img src="./img/python" width="48" height="48" title="HTML 5"/>
+      <br>Python
     </td>
     <td align="center" width="96">
-      <a href="https://www.w3schools.com/css/">
-        <img src="./img/css3.svg" width="48" height="48" title="CSS 3">
-      </a>
-      <br>CSS 3
+        <img src="./img/react.svg" width="48" height="48" title="CSS 3">
+      <br>React
     </td>
     <td align="center" width="96">
-      <a href="https://www.w3schools.com/js/">
-        <img src="./img/javascript.svg" width="48" height="48" title="JavaScript" />
-      </a>
-      <br>JavaScript
+        <img src="./img/csharp.svg" width="48" height="48" title="JavaScript" />
+      <br>C#
     </td>
     <td align="center" width="96">
-      <a href="https://sass-lang.com">
-        <img src="./img/sass.svg" width="48" height="48" alt="Sass" />
-      </a>
-      <br>SASS
+        <img src="./img/styles-components.svg" width="48" height="48" alt="Sass" />
+      <br>Styled Components
     </td>
   </tr>
 </table>
@@ -43,62 +35,24 @@
   <tr>
     <td align="center" width="96">
         <div href="">
-          <div href="https://code.visualstudio.com">
             <img src="./img/vs-code.svg" width="48" height="48" alt="Visual Studio Code" />
-          </div>
         </div>
       VS Code
     </td>
     <td align="center" width="96">
-        <div href="https://www.figma.com">
           <img src="./img/figma.svg" width="48" height="48" alt="Figma" />
-        </div>
       Figma
     </td>
     <td align="center" width="96">
-        <div href="https://git-scm.com">
           <img src="./img/git.svg" width="48" height="48" alt="Git" />
-        </div>
       Git
     </td>
     <td align="center" width="96">
-        <a href="https://github.com/yagomouro">
-          <img src="./img/github.svg" width="50" height="50" alt="GitHub" />
-        </a>
-      GitHub
+          <img src="./img/azure-functions.svg" width="50" height="50" alt="GitHub" />
+      Azure Functions
     </td>
   </tr>
 </table>
-<!-- ****************** I'm interested ****************** -->
-<h4>I'm interested</h4>
-<table>
-  <tr>
-   <td align="center" width="96">
-      <a href="https://reactjs.org" >
-        <img src="./img/react.svg" width="48" height="48" alt="React Js" />
-      </a>
-      <br>React Js
-    </td>
-     <td align="center" width="96">
-      <a href="https://vuejs.org">
-        <img src="./img/vue.svg" width="48" height="48" alt="Vue Js" />
-      </a>
-      <br>Vue Js
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.typescriptlang.org">
-        <img src="./img/typescript.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="https://nodejs.org/en/" >
-        <img src="./img/node-js.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>Node Js
-    </td>
-  </tr>
-</table><br>
 
 <!-- ****************** GitHub profile stats ****************** -->
 <details> 
