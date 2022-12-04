@@ -2,7 +2,7 @@
 
 <div align="center" width="100%">
   <a href="https://git.io/typing-svg">
-    <img width="100%" src="https://readme-typing-svg.herokuapp.com?color=2ABD90&size=15&center=true&vCenter=true&lines=Hi+there%2C+my+name+is+Yago;I'm+full+stack+developer;Welcome+to+my+GitHub+profile+%3A%29" alt="Welcome to my profile"/>
+    <img width="100%" src="https://readme-typing-svg.herokuapp.com?color=2ABD90&size=15&center=true&vCenter=true&lines=Hi+there%2C+my+name+is+Yago;I'm+data+engineer;Welcome+to+my+GitHub+profile+%3A%29" alt="Welcome to my profile"/>
   </a>
 </div> <br>
 
@@ -16,16 +16,16 @@
       <br>Python
     </td>
     <td align="center" width="96">
+        <img src="./img/flask.png" width="48" height="48" alt="Flask" />
+      <br>Flask
+    </td>
+    <td align="center" width="96">
+        <img src="./img/pyspark.png" width="48" height="48" title="PySpark" />
+      <br>PySpark
+    </td>
+    <td align="center" width="96">
         <img src="./img/react.svg" width="48" height="48" title="React">
       <br>React
-    </td>
-    <td align="center" width="96">
-        <img src="./img/csharp.svg" width="48" height="48" title="C#" />
-      <br>C#
-    </td>
-    <td align="center" width="96">
-        <img src="./img/sass.svg" width="48" height="48" alt="Sass" />
-      <br>Sass
     </td>
   </tr>
 </table><br>
@@ -40,16 +40,16 @@
       VS Code
     </td>
     <td align="center" width="96">
-          <img src="./img/figma.svg" width="48" height="48" alt="Figma" />
-      Figma
-    </td>
-    <td align="center" width="96">
-          <img src="./img/git.svg" width="48" height="48" alt="Git" />
-      Git
+          <img src="./img/azure-synapse-analytics.png" width="50" height="50" alt="Azure Synapse Analytics" />
+      Azure Synapse Analytics
     </td>
     <td align="center" width="96">
           <img src="./img/azure-functions.png" width="50" height="50" alt="Azure Functions" />
       Azure Functions
+    </td>
+    <td align="center" width="96">
+          <img src="./img/git.svg" width="48" height="48" alt="Git" />
+      Git
     </td>
   </tr>
 </table>
