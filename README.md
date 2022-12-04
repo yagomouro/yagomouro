@@ -16,7 +16,7 @@
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="./img/flask2.png"  height="48" alt="Flask" />
+        <img src="./img/flask-white.png"  height="48" alt="Flask" />
       <br>Flask
     </td>
     <td align="center" width="144">
