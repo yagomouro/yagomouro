@@ -40,7 +40,7 @@
       VS Code
     </td>
     <td align="center" width="144">
-          <img src="./img/azure-synapse-analytics.png" height="50" alt="Synapse Analytics" />
+          <img src="./img/azure-synapse-analytics.png" width="80"  alt="Synapse Analytics" />
       Synapse Analytics
     </td>
     <td align="center" width="96">
