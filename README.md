@@ -12,19 +12,19 @@
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="./img/python.png" width="48" height="48" title="Python"/>
+        <img src="./img/python.png" height="48" title="Python"/>
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="./img/flask.png" width="48" height="48" alt="Flask" />
+        <img src="./img/flask2.png"  height="48" alt="Flask" />
       <br>Flask
     </td>
-    <td align="center" width="96">
-        <img src="./img/pyspark.png" width="48" height="48" title="PySpark" />
+    <td align="center" width="144">
+        <img src="./img/pyspark.png" height="48" title="PySpark" />
       <br>PySpark
     </td>
     <td align="center" width="96">
-        <img src="./img/react.svg" width="48" height="48" title="React">
+        <img src="./img/react.svg" height="48" title="React">
       <br>React
     </td>
   </tr>
@@ -35,20 +35,20 @@
   <tr>
     <td align="center" width="96">
         <div href="">
-            <img src="./img/vs-code.svg" width="48" height="48" alt="Visual Studio Code" />
+            <img src="./img/vs-code.svg" height="48" alt="Visual Studio Code" />
         </div>
       VS Code
     </td>
-    <td align="center" width="96">
-          <img src="./img/azure-synapse-analytics.png" width="50" height="50" alt="Azure Synapse Analytics" />
-      Azure Synapse Analytics
+    <td align="center" width="144">
+          <img src="./img/azure-synapse-analytics.png" height="50" alt="Synapse Analytics" />
+      Synapse Analytics
     </td>
     <td align="center" width="96">
-          <img src="./img/azure-functions.png" width="50" height="50" alt="Azure Functions" />
+          <img src="./img/azure-functions.png" height="50" alt="Azure Functions" />
       Azure Functions
     </td>
     <td align="center" width="96">
-          <img src="./img/git.svg" width="48" height="48" alt="Git" />
+          <img src="./img/git.svg" height="48" alt="Git" />
       Git
     </td>
   </tr>
