@@ -23,10 +23,6 @@
         <img src="./img/pyspark.png" height="48" title="PySpark" />
       <br>PySpark
     </td>
-    <td align="center" width="96">
-        <img src="./img/react.svg" height="48" title="React">
-      <br>React
-    </td>
   </tr>
 </table><br>
 <!-- ****************** Tools ****************** -->
