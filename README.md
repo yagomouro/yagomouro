@@ -1,4 +1,3 @@
-<!-- ****************** Typing svg ****************** -->
 
 <div align="center" width="100%">
   <a href="https://git.io/typing-svg">
@@ -73,9 +72,6 @@
 <!-- ****************** Favorite repos ****************** -->
 <h3>🖤 My favorite repos<h3>
 <div align="left" width="100%">
-  <a href="https://github.com/pednucci/donaro">
-    <img  width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=pednucci&repo=donaro&theme=tokyonight" alt="Donaro Repository Stats"/>
-  </a>&ensp;&ensp;&ensp;
   <a href="https://github.com/yagomouro/weather-app">
     <img  width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=yagomouro&repo=weather-app&theme=tokyonight" alt="Weather App Repository Stats"/>
   </a>&ensp;&ensp;&ensp;
